@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keith Kwanghyun Lee</h1>
-<h3 align="center">I'm 2nd year MPH Biostatistics student from NYU, looking for full-time jobs in Data Science / Analytics!</h3>
+<h3 align="center">I'm Software Engineering Fellow at General Assembly, looking for full-time jobs in Software Engineering!</br>
+I'm also MPH Biostatistics Graduate from NYU!</h3>
 
-- 🌱 I’m currently learning **Generalized Linear Models, Machine Learning, Claims Data Analysis, etc.**
+- 🌱 I’m currently learning **HTML, CSS, JavaSCript, Express, MongoDB, React** to become a full-stack developer.
+- 🌱 I can also perform **Data Analytics, Statistical Analysis, Machine Learning**.
 
 Connect with me: 
 - [E-mail](mailto:kl1672@nyu.edu)
