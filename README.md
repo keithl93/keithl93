@@ -6,7 +6,7 @@ I'm also MPH Biostatistics Graduate from NYU!</h3>
 - 🌱 I can also perform **Data Analytics, Statistical Analysis, Machine Learning**.
 
 Connect with me: 
-- [E-mail](mailto:kl1672@nyu.edu)
+- [E-mail](mailto:keithfromseoul@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/khlee93/)
 <p align="left">
 </p>
